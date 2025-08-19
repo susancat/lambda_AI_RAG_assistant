@@ -1,0 +1,56 @@
+公司與產品介紹內容（中英雙語）
+🌐 公司簡介 | Company Introduction
+中文：
+NovaTech 是一家專注於人工智慧、雲端運算與物聯網整合的創新科技公司。我們致力於為企業提供高效、可擴展且智慧化的解決方案，協助客戶在數位轉型的浪潮中取得競爭優勢。
+English:
+NovaTech is an innovative technology company specializing in artificial intelligence, cloud computing, and IoT integration. We are committed to providing enterprises with efficient, scalable, and intelligent solutions to help them gain a competitive edge in the digital transformation era.
+1️⃣ NovaVision – AI 智慧監控平台
+中文：
+NovaVision 利用計算機視覺與即時辨識技術，提供企業級的智慧監控系統，可應用於工廠安全、門禁控管與客流分析。
+English:
+NovaVision is an enterprise-grade smart surveillance platform powered by computer vision and real-time recognition technologies. It is applicable to factory safety, access control, and foot traffic analytics.
+2️⃣ DataPulse – 雲端資料流分析引擎
+中文：
+DataPulse 能即時處理大量 IoT 裝置傳送的資料流，支援事件觸發規則與資料可視化，提升決策效率。
+English:
+DataPulse is a real-time data stream analytics engine that handles massive IoT device data, supports event-driven rules, and provides powerful visualizations to enhance decision-making.
+3️⃣ CoreChat – AI 語意客服助手
+中文：
+CoreChat 是一款多語言支援的 AI 客服系統，可整合至企業網站與 App，透過自然語言處理技術提升用戶體驗。
+English:
+CoreChat is a multilingual AI customer service assistant that integrates with websites and apps, enhancing user experience through advanced natural language processing.
+4️⃣ OmniTrack – 全域設備追蹤系統
+中文：
+OmniTrack 提供 GPS、藍牙與 Wi-Fi 混合定位，支援貨物、車隊與行動裝置的跨區追蹤。
+English:
+OmniTrack offers hybrid positioning using GPS, Bluetooth, and Wi-Fi, enabling cross-region tracking of cargo, fleets, and mobile devices.
+5️⃣ SenseGrid – 智慧城市感測網絡
+中文：
+SenseGrid 為城市級別的感測器佈建與資料收集平台，應用於空氣品質、噪音監測與能源管理。
+English:
+SenseGrid is a sensor deployment and data aggregation platform at city scale, used for air quality monitoring, noise detection, and energy management.
+6️⃣ InsightBoard – 即時決策儀表板
+中文：
+InsightBoard 結合內部系統與第三方資料源，提供高互動性的 KPI 追蹤與決策建議儀表板。
+English:
+InsightBoard integrates internal systems with third-party data sources to offer interactive KPI tracking and actionable dashboards for decision-making.
+7️⃣ ChainGuard – 區塊鏈資料驗證系統
+中文：
+ChainGuard 透過區塊鏈技術提供文件與交易紀錄的不可篡改驗證，可應用於合約管理與供應鏈紀錄。
+English:
+ChainGuard leverages blockchain to ensure immutable verification of documents and transaction logs, ideal for contract management and supply chain traceability.
+8️⃣ NovaForms – 無程式表單自動化平台
+中文：
+NovaForms 支援拖放式介面設計表單與流程，自動整合後端系統，無需撰寫程式碼。
+English:
+NovaForms enables drag-and-drop form and workflow design with automated backend integration, requiring no code.
+9️⃣ AeroNode – 工業物聯網閘道器
+中文：
+AeroNode 是具備邊緣運算能力的工業 IoT 閘道器，支援多種通訊協定與本地事件判斷。
+English:
+AeroNode is an industrial IoT gateway with edge computing capabilities, supporting various communication protocols and local event processing.
+🔟 ModelLoop – AI 模型部署與監控平台
+中文：
+ModelLoop 協助資料科學團隊將模型部署至雲端，並追蹤模型效能與異常行為。
+English:
+ModelLoop helps data science teams deploy models to the cloud and monitor their performance and anomalies in real time.
